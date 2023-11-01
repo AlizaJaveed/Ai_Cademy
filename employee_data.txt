@@ -1,0 +1,99 @@
+Employee ID: 101
+Name: Muhammad Ali
+Department: Sales
+Salary: 50000 PKR
+
+Employee ID: 102
+Name: Ayesha Khan
+Department: Marketing
+Salary: 60000 PKR
+
+Employee ID: 103
+Name: Ahmed Riaz
+Department: IT
+Salary: 70000 PKR
+
+Employee ID: 104
+Name: Sadia Ahmed
+Department: HR
+Salary: 55000 PKR
+
+Employee ID: 105
+Name: Shahid Malik
+Department: Finance
+Salary: 75000 PKR
+
+Employee ID: 106
+Name: Hina Iqbal
+Department: Sales
+Salary: 52000 PKR
+
+Employee ID: 107
+Name: Bilal Hassan
+Department: IT
+Salary: 71000 PKR
+
+Employee ID: 108
+Name: Zara Fatima
+Department: Marketing
+Salary: 62000 PKR
+
+Employee ID: 109
+Name: Usman Khan
+Department: HR
+Salary: 56000 PKR
+
+Employee ID: 110
+Name: Sana Yasir
+Department: Finance
+Salary: 76000 PKR
+
+Employee ID: 111
+Name: Ali Shahzad
+Department: Sales
+Salary: 54000 PKR
+
+Employee ID: 112
+Name: Nida Ijaz
+Department: IT
+Salary: 72500 PKR
+
+Employee ID: 113
+Name: Imran Akhtar
+Department: Marketing
+Salary: 63000 PKR
+
+Employee ID: 114
+Name: Maria Khan
+Department: HR
+Salary: 57000 PKR
+
+Employee ID: 115
+Name: Saad Bashir
+Department: Finance
+Salary: 78000 PKR
+
+Employee ID: 116
+Name: Amina Raza
+Department: Sales
+Salary: 51000 PKR
+
+Employee ID: 117
+Name: Yasir Ahmed
+Department: IT
+Salary: 72000 PKR
+
+Employee ID: 118
+Name: Nida Ijaz
+Department: Marketing
+Salary: 64000 PKR
+
+Employee ID: 119
+Name: Imran Riaz
+Department: HR
+Salary: 59000 PKR
+
+Employee ID: 120
+Name: Saima Ali
+Department: Finance
+Salary: 77000 PKR
